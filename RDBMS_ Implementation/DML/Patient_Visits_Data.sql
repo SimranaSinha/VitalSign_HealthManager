@@ -1,0 +1,117 @@
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-1-VSHM","DR-1","PT-10"),
+  ("A-3-VSHM","DR-2","PT-15"),
+  ("A-5-VSHM","DR-3","PT-20"),
+  ("A-7-VSHM","DR-4","PT-25"),
+  ("A-9-VSHM","DR-5","PT-30"),
+  ("A-11-VSHM","DR-6","PT-35"),
+  ("A-13-VSHM","DR-7","PT-40"),
+  ("A-15-VSHM","DR-8","PT-45"),
+  ("A-17-VSHM","DR-9","PT-50"),
+  ("A-19-VSHM","DR-10","PT-55"),
+  ("A-21-VSHM","DR-11","PT-60"),
+  ("A-23-VSHM","DR-12","PT-65"),
+  ("A-25-VSHM","DR-13","PT-70"),
+  ("A-27-VSHM","DR-14","PT-75"),
+  ("A-29-VSHM","DR-15","PT-80"),
+  ("A-31-VSHM","DR-1","PT-85"),
+  ("A-33-VSHM","DR-2","PT-90"),
+  ("A-35-VSHM","DR-3","PT-95"),
+  ("A-37-VSHM","DR-5","PT-100"),
+  ("A-39-VSHM","DR-10","PT-105");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-41-VSHM","DR-11","PT-110"),
+  ("A-43-VSHM","DR-13","PT-115"),
+  ("A-45-VSHM","DR-5","PT-120"),
+  ("A-47-VSHM","DR-4","PT-125"),
+  ("A-49-VSHM","DR-6","PT-130");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-51-VSHM","DR-1","PT-135"),
+  ("A-53-VSHM","DR-2","PT-140"),
+  ("A-55-VSHM","DR-3","PT-145"),
+  ("A-57-VSHM","DR-4","PT-150"),
+  ("A-59-VSHM","DR-5","PT-155"),
+  ("A-61-VSHM","DR-6","PT-160"),
+  ("A-63-VSHM","DR-7","PT-165"),
+  ("A-65-VSHM","DR-8","PT-170"),
+  ("A-67-VSHM","DR-9","PT-175"),
+  ("A-69-VSHM","DR-10","PT-180"),
+  ("A-71-VSHM","DR-11","PT-185"),
+  ("A-73-VSHM","DR-12","PT-190"),
+  ("A-75-VSHM","DR-13","PT-195"),
+  ("A-77-VSHM","DR-14","PT-200"),
+  ("A-79-VSHM","DR-15","PT-205"),
+  ("A-81-VSHM","DR-10","PT-210"),
+  ("A-83-VSHM","DR-15","PT-215"),
+  ("A-85-VSHM","DR-13","PT-220"),
+  ("A-87-VSHM","DR-12","PT-225"),
+  ("A-89-VSHM","DR-4","PT-230");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-91-VSHM","DR-6","PT-235"),
+  ("A-93-VSHM","DR-7","PT-240"),
+  ("A-95-VSHM","DR-9","PT-245"),
+  ("A-97-VSHM","DR-2","PT-250"),
+  ("A-99-VSHM","DR-8","PT-255");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-101-VSHM","DR-1","PT-10"),
+  ("A-103-VSHM","DR-2","PT-15"),
+  ("A-105-VSHM","DR-3","PT-20"),
+  ("A-107-VSHM","DR-4","PT-25"),
+  ("A-109-VSHM","DR-5","PT-30"),
+  ("A-111-VSHM","DR-6","PT-35"),
+  ("A-113-VSHM","DR-7","PT-40"),
+  ("A-115-VSHM","DR-8","PT-45"),
+  ("A-117-VSHM","DR-9","PT-50"),
+  ("A-119-VSHM","DR-10","PT-55"),
+  ("A-121-VSHM","DR-11","PT-60"),
+  ("A-123-VSHM","DR-12","PT-65"),
+  ("A-125-VSHM","DR-13","PT-70"),
+  ("A-127-VSHM","DR-14","PT-75"),
+  ("A-129-VSHM","DR-15","PT-80"),
+  ("A-131-VSHM","DR-1","PT-85"),
+  ("A-133-VSHM","DR-3","PT-90"),
+  ("A-135-VSHM","DR-5","PT-95"),
+  ("A-137-VSHM","DR-7","PT-100"),
+  ("A-139-VSHM","DR-9","PT-105");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-141-VSHM","DR-2","PT-110"),
+  ("A-143-VSHM","DR-4","PT-115"),
+  ("A-145-VSHM","DR-5","PT-120"),
+  ("A-147-VSHM","DR-6","PT-125"),
+  ("A-149-VSHM","DR-10","PT-130");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-151-VSHM","DR-1","PT-135"),
+  ("A-153-VSHM","DR-2","PT-140"),
+  ("A-155-VSHM","DR-3","PT-145"),
+  ("A-157-VSHM","DR-4","PT-150"),
+  ("A-159-VSHM","DR-5","PT-155"),
+  ("A-161-VSHM","DR-6","PT-160"),
+  ("A-163-VSHM","DR-7","PT-165"),
+  ("A-165-VSHM","DR-8","PT-170"),
+  ("A-167-VSHM","DR-9","PT-175"),
+  ("A-169-VSHM","DR-10","PT-180"),
+  ("A-171-VSHM","DR-11","PT-185"),
+  ("A-173-VSHM","DR-12","PT-190"),
+  ("A-175-VSHM","DR-13","PT-195"),
+  ("A-177-VSHM","DR-14","PT-200"),
+  ("A-179-VSHM","DR-15","PT-205"),
+  ("A-181-VSHM","DR-11","PT-210"),
+  ("A-183-VSHM","DR-13","PT-215"),
+  ("A-185-VSHM","DR-15","PT-220"),
+  ("A-187-VSHM","DR-6","PT-225"),
+  ("A-189-VSHM","DR-7","PT-230");
+INSERT INTO `Patient_Visits` (`AppointmentID`,`D_Id`,`P_Id`)
+VALUES
+  ("A-191-VSHM","DR-5","PT-235"),
+  ("A-193-VSHM","DR-12","PT-240"),
+  ("A-195-VSHM","DR-2","PT-245"),
+  ("A-197-VSHM","DR-4","PT-250"),
+  ("A-199-VSHM","DR-5","PT-255");
+
