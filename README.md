@@ -111,6 +111,20 @@ VitalSign_HealthManager/
 * Structured dataset creation using DML scripts
 
 ---
+## 📈 Key Learnings
+
+* Designing scalable healthcare database systems
+* Working with **hybrid SQL + NoSQL architectures**
+* Writing optimized SQL queries for real-world use cases
+* Data modeling using EER and UML
+* Managing complex relational dependencies
+
+---
+
+## 📄 Project Report
+
+Detailed analysis and implementation:
+📄 `DMA_FinalProjectReport_Group21.pdf`
 
 ## 🚀 How to Run
 
@@ -147,22 +161,6 @@ BasicAnalysis.sql
 jupyter notebook Python_Implementation.ipynb
 ```
 
----
-
-## 📈 Key Learnings
-
-* Designing scalable healthcare database systems
-* Working with **hybrid SQL + NoSQL architectures**
-* Writing optimized SQL queries for real-world use cases
-* Data modeling using EER and UML
-* Managing complex relational dependencies
-
----
-
-## 📄 Project Report
-
-Detailed analysis and implementation:
-📄 `DMA_FinalProjectReport_Group21.pdf`
 
 
 
